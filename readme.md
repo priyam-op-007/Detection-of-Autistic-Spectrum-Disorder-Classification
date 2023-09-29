@@ -6,7 +6,7 @@ Group Members:
 - Priyaranjan Mishra (20BCE10121)
 - Suryakant Patwardhan (20BCE10783)
 
-# Project Deployed at - (autism-detection.streamlit.app)
+# [Project Deployment](https://autism-detection.streamlit.app/)
 
 ### Data Dictionary 
 
